@@ -1,0 +1,28 @@
+{
+  "workExp": [
+    {
+      "companyName": "SAHU Technologies",
+      "duration": "June 2019 - July 2019",
+      "position": "Web Development Intern",
+      "description": "Learnt web development languages like html5, css3 in depth. Built various websites during the learning process."
+    },
+    {
+      "companyName": "The Sparks Foundation",
+      "duration": "Nov 2020 - Dec 2020",
+      "position": "Web Development Intern",
+      "description": "Built bank website to perform money transactions. Used HTML5, CSS3 and PHP to design website and perform various transactions between bank accounts."
+    },
+    {
+      "companyName": "Across The Globe(ATG)",
+      "duration": "Aug 2021 - Ongoing",
+      "position": "Frontend Development Intern",
+      "description": "Developed landing pages and web applications using Reactjs and Nextjs Maintained quality assurance through code testing and cross-browser testing. Adhered to best practices for software development methodology and web security."
+    },
+    {
+      "companyName": "Adpaty",
+      "duration": "March 2022 - Ongoing",
+      "position": "Frontend Developer",
+      "description": "Developed landing pages and web applications using Reactjs and Nextjs Maintained quality assurance through code testing and cross-browser testing. Adhered to best practices for software development methodology and web security."
+    }
+  ]
+}
