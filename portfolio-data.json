@@ -24,5 +24,63 @@
       "position": "Frontend Developer",
       "description": "Developed landing pages and web applications using Reactjs and Nextjs Maintained quality assurance through code testing and cross-browser testing. Adhered to best practices for software development methodology and web security."
     }
+  ],
+  "projects":[
+    {
+      "image": "./images/faq_accordion.png",
+      "title": "Frontend Mentor | FAQ Accordion",
+      "links":[
+        {
+          "name":"Prewiew",
+          "previewLink":"https://sk7867.github.io/faq_Accordion/index.html"
+        },
+        {
+          "name":"Github",
+          "previewLink":"https://github.com/Sk7867/faq_Accordion"
+        }
+      ]
+    },
+    {
+      "image": "./images/testimonial_section-min.png",
+      "title": "Frontend Mentor | Testimonial Section",
+      "links":[
+        {
+          "name":"Prewiew",
+          "previewLink":"https://sk7867.github.io/Testimonials_grid_section/index.html"
+        },
+        {
+          "name":"Github",
+          "previewLink":"https://github.com/Sk7867/Testimonials_grid_section"
+        }
+      ]
+    },
+    {
+      "image": "./images/huddle_landing_page-min.png",
+      "title": "Frontend Mentor | Huddle Landing Page",
+      "links":[
+        {
+          "name":"Prewiew",
+          "previewLink":"https://sk7867.github.io/Huddle_Landing_page_Sass/index.html"
+        },
+        {
+          "name":"Github",
+          "previewLink":"https://github.com/Sk7867/Huddle_Landing_page_Sass"
+        }
+      ]
+    },
+    {
+      "image": "./images/single_price_component-min.png",
+      "title": "Frontend Mentor | Single Price Component",
+      "links":[
+        {
+          "name":"Prewiew",
+          "previewLink":"https://sk7867.github.io/single_price_grid/index.html"
+        },
+        {
+          "name":"Github",
+          "previewLink":"https://github.com/Sk7867/single_price_grid"
+        }
+      ]
+    }
   ]
 }
