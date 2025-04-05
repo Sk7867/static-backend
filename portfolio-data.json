@@ -27,7 +27,7 @@
   ],
   "projects":[
     {
-      "image": "./images/faq_accordion.png",
+      "image": "./assets/faq_accordion.png",
       "title": "Frontend Mentor | FAQ Accordion",
       "links":[
         {
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "image": "./images/testimonial_section-min.png",
+      "image": "./assets/testimonial_section-min.png",
       "title": "Frontend Mentor | Testimonial Section",
       "links":[
         {
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "image": "./images/huddle_landing_page-min.png",
+      "image": "./assets/huddle_landing_page-min.png",
       "title": "Frontend Mentor | Huddle Landing Page",
       "links":[
         {
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "image": "./images/single_price_component-min.png",
+      "image": "./assets/single_price_component-min.png",
       "title": "Frontend Mentor | Single Price Component",
       "links":[
         {
